@@ -1,0 +1,31 @@
+@font-face {
+    font-family: 'arpitfont';
+    src: url(../fonts/AlexBrush-Regular.ttf) format("truetype");
+}
+article{
+    border-bottom: 4px solid black;
+}
+@font-face {
+    font-family: 'priyafont';
+    src: url(../fonts/KaushanScript-Regular.otf) format("opentype");
+}
+
+
+h1.n1{
+    color: red;
+    font-family: arpitfont,Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+h1.n2{
+    color:green;
+    font-family: priyafont,Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+.img1{
+    border-radius: 40px;
+    border: 1px solid black;
+}
+.img2{
+border-radius: 40px;
+border: 1px solid gold;
+}
